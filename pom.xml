@@ -9,7 +9,7 @@
 
   <properties>
     <rpm.release>1</rpm.release>
-    <rpm.pkgname>glite-ce-job-plugin</rpm.pkgname>
+    <rpm.pkgname>glite-ce-osg-ce-plugin</rpm.pkgname>
   </properties>
   
   <parent>
